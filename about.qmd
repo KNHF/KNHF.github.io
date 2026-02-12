@@ -1,5 +1,6 @@
 ---
 title: "About Me"
+page-layout: article
 ---
 
 # About Me
@@ -13,4 +14,4 @@ I enjoy building tools that make life easier — from automation scripts to clea
 - Making technical tools accessible to non‑technical users
 
 ## Outside of work
-I enjoy volleyball, exploring Bristol, and optimising my home tech setup.I'm always open to connecting with like‑minded people, so feel free to reach out!
+I enjoy volleyball, exploring Bristol, and optimising my home tech setup.

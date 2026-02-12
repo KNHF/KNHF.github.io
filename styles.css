@@ -1,1 +1,23 @@
-/* css styles */
+/* Link hover */
+a:hover {
+    color: #ff6f61;
+    text-decoration: underline;
+}
+
+/* Navbar hover */
+.navbar-nav .nav-link:hover {
+    color: #ff6f61 !important;
+}
+
+/* Headings hover */
+h1:hover,
+h2:hover,
+h3:hover {
+    color: #ff6f61;
+    transition: 0.2s ease;
+}
+
+/* Make the site feel more modern */
+body {
+    font-family: 'Inter', sans-serif;
+}

@@ -5,8 +5,8 @@ title: "Projects"
 # Projects
 
 ## Python File Organizer
-A modular automation tool that organizes files into clean folder structures.  
-Includes user prompts, error handling, and a professional GitHub README.
+A small automation tool I built to clean messy folders and make file management easier.  
+It includes simple prompts, error handling, and a clean structure so anyone can use it.
 
 **Tech:** Python  
 **Status:** Completed  
