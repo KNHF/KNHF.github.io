@@ -2,6 +2,7 @@
 title: ""
 page-layout: full
 ---
+
 <div class="page-wrapper">
 
 <div class="hero">
@@ -95,7 +96,7 @@ analytics. As I go, I’m trying to keep everything reproducible, documented, an
 </ul>
 
 <div class="site-footer">
-  © {{< meta title >}} — Built with Quarto.
+  © Karan Homayounfar — Built with Quarto.
 </div>
 
 </div>
