@@ -6,76 +6,33 @@ page-layout: article
 <div class="page-wrapper">
 
 <p>
-I'm Karan, a Data Science master's student based in Bristol. I like building things that are practical, structured, and
-actually useful. Whether it's a small automation script or a full project with documentation and a clean workflow, I
-care about clarity and making sure the end result feels intentional rather than thrown together.
+I’m Karan, a Data Science master’s student at UWE Bristol. I focus on building systems that are efficient, structured, and genuinely useful. Most of my projects start with a simple question: <em>“How can this be done better?”</em>
 </p>
 
 <p>
-Most of my work revolves around Python, R, SQL, and tools like Git, Docker, and Quarto. I enjoy taking something messy
-— files, data, or a vague idea — and turning it into something organised, predictable, and easy to understand. I’m not
-trying to overcomplicate things; I prefer solutions that are simple, reliable, and easy for someone else to pick up.
+I work with Python, R, SQL, and tools like Docker, Git, and Quarto to create clean, reproducible workflows. I enjoy taking something messy — files, data, or a vague idea — and turning it into a process that’s predictable and easy to maintain.
 </p>
 
-<h2 class="section-title">How I approach projects</h2>
-
 <p>
-I like to work in a step-by-step, structured way:
+I’m currently developing my skills toward the finance and quantitative space. I’m interested in how data behaves in real markets, how signals form, and how to test ideas without overfitting or overcomplicating things. My goal is to build a strong foundation in practical analytics and eventually move into roles where data, modelling, and decision‑making intersect.
 </p>
 
-<ul>
-  <li>Start with a clear, honest description of the problem.</li>
-  <li>Break it into small, testable pieces instead of one big jump.</li>
-  <li>Keep the folder structure and code layout clean from the start.</li>
-  <li>Document decisions so future me (or someone else) can follow the logic.</li>
-</ul>
-
 <p>
-I’m not trying to pretend everything is perfect or finished. I’d rather show real work in progress, explain what I’ve
-learned, and keep improving it over time.
+Outside of work, I enjoy volleyball, exploring Bristol, and constantly refining my own setups — whether that’s my workflow, my tools, or how I organise information.
 </p>
 
 <h2 class="section-title">Tools I use</h2>
 
 <div class="skills-grid">
-  <div class="skill-card">Python</div>
-  <div class="skill-card">R & RStudio</div>
-  <div class="skill-card">SQL & MySQL</div>
-  <div class="skill-card">Docker</div>
-  <div class="skill-card">Git & GitHub</div>
-  <div class="skill-card">Quarto</div>
-  <div class="skill-card">Pandas & Data Analysis</div>
-  <div class="skill-card">Machine Learning</div>
+<div class="skill-card">Python</div>
+<div class="skill-card">R & RStudio</div>
+<div class="skill-card">SQL & MySQL</div>
+<div class="skill-card">Docker</div>
+<div class="skill-card">Git & GitHub</div>
+<div class="skill-card">Quarto</div>
+<div class="skill-card">Pandas</div>
+<div class="skill-card">Machine Learning</div>
 </div>
-
-<h2 class="section-title">Outside of code</h2>
-
-<p>
-Outside of studying and building projects, I enjoy volleyball, exploring Bristol, and constantly refining my own
-setups—whether that’s my home tech, my workflows, or how I organise information. I like finding small improvements
-that make everyday things smoother.
-</p>
-
-<h2 class="section-title">Connect with me</h2>
-
-<ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
-</ul>
-
-<div class="site-footer">
-  © Karan Homayounfar — Built with Quarto.
-</div>
-
-</div>
-
-<div class="site-footer">
-  <div class="footer-links">
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="projects.html">Projects</a>
-    <a href="contact.html">Contact</a>
-  </div>
 
 <div class="site-footer">
 <div class="footer-links">
@@ -93,4 +50,6 @@ that make everyday things smoother.
 <div class="footer-copy">
 © Karan Homayounfar — Built with Quarto.
 </div>
+</div>
+
 </div>

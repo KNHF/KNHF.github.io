@@ -6,67 +6,44 @@ page-layout: article
 <div class="page-wrapper">
 
 <p>
-These are some of the projects I’m working on or have built recently. I prefer to show real things—even if they’re
-still evolving—rather than pretend everything is perfectly finished. Each project teaches me something new about
-structure, tooling, and how to make ideas actually run.
+These are some of the projects I’m working on or have built recently. I prefer to show real things — even if they’re still evolving — rather than pretend everything is perfectly finished. Each project teaches me something new about structure, tooling, and how to make ideas actually run.
 </p>
 
 <div class="project-card">
-  <img src="https://picsum.photos/seed/file/900/260" class="project-img">
-  <h2>Python File Organizer</h2>
-  <p>
-    A practical automation tool that cleans and structures messy folders. It moves files into organised directories
-    based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and
-    predictable behaviour.
-  </p>
-  <p>
-    <strong>Tech:</strong> Python  
-    <br>
-    <strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a>
-  </p>
+<img src="https://picsum.photos/seed/file/900/260" class="project-img">
+<h2>Python File Organizer</h2>
+<p>
+A practical automation tool that cleans and structures messy folders. It moves files into organised directories based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and predictable behaviour.
+</p>
+<p>
+<strong>Tech:</strong> Python<br>
+<strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a>
+</p>
 </div>
 
 <div class="project-card">
-  <img src="https://picsum.photos/seed/portfolio/900/260" class="project-img">
-  <h2>This Portfolio</h2>
-  <p>
-    A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project:
-    structure, styling, and content are all things I iterate on, just like code.
-  </p>
-  <p>
-    <strong>Tech:</strong> Quarto, HTML, CSS, GitHub Pages  
-    <br>
-    <strong>Repo:</strong> <a href="https://github.com/knhf/KNHF.github.io">github.com/knhf/KNHF.github.io</a>
-  </p>
+<img src="https://picsum.photos/seed/portfolio/900/260" class="project-img">
+<h2>This Portfolio</h2>
+<p>
+A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project: structure, styling, and content are all things I iterate on, just like code.
+</p>
+<p>
+<strong>Tech:</strong> Quarto, HTML, CSS, GitHub Pages<br>
+<strong>Repo:</strong> <a href="https://github.com/knhf/KNHF.github.io">github.com/knhf/KNHF.github.io</a>
+</p>
 </div>
 
 <div class="project-card">
-  <img src="https://picsum.photos/seed/finance/900/260" class="project-img">
-  <h2>Finance / Quant Experiments</h2>
-  <p>
-    A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour,
-    test ideas, and build intuition without overcomplicating things.
-  </p>
-  <p>
-    <strong>Tech:</strong> Python, Pandas, basic ML  
-    <br>
-    <strong>Status:</strong> Ongoing exploration
-  </p>
+<img src="https://picsum.photos/seed/finance/900/260" class="project-img">
+<h2>Finance / Quant Experiments</h2>
+<p>
+A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour, test ideas, and build intuition without overcomplicating things.
+</p>
+<p>
+<strong>Tech:</strong> Python, Pandas, basic ML<br>
+<strong>Status:</strong> Ongoing exploration
+</p>
 </div>
-
-<div class="site-footer">
-  © Karan Homayounfar — Built with Quarto.
-</div>
-
-</div>
-
-<div class="site-footer">
-<div class="footer-links">
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="projects.html">Projects</a>
-    <a href="contact.html">Contact</a>
- </div>
 
 <div class="site-footer">
 <div class="footer-links">
@@ -84,4 +61,6 @@ structure, tooling, and how to make ideas actually run.
 <div class="footer-copy">
 © Karan Homayounfar — Built with Quarto.
 </div>
+</div>
+
 </div>

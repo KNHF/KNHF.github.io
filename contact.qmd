@@ -6,16 +6,14 @@ page-layout: article
 <div class="page-wrapper">
 
 <p>
-If you’d like to talk about projects, ideas, or potential opportunities, the easiest way to reach me is through
-GitHub or LinkedIn. I’m open to conversations about data science, automation, and practical AI applications, as well
-as feedback on the things I’m building.
+If you’d like to talk about projects, ideas, or potential opportunities, the easiest way to reach me is through GitHub or LinkedIn. I’m open to conversations about data science, automation, and practical AI applications, as well as feedback on the things I’m building.
 </p>
 
 <h2 class="section-title">Contact details</h2>
 
 <ul class="contact-list">
-  <li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
 </ul>
 
 <p>
@@ -23,27 +21,8 @@ If you prefer email, you can reach me at:
 </p>
 
 <p>
-<strong>Email:</strong> <a href="karan.homayounfar@gmail.com">karan.homayounfar@gmail.com</a>
+<strong>Email:</strong> your-email@example.com
 </p>
-
-<p>
-I’m always interested in thoughtful projects, collaborations, or just exchanging ideas about how to make data and
-tools more useful in the real world.
-</p>
-
-<div class="site-footer">
-  © Karan Homayounfar — Built with Quarto.
-</div>
-
-</div>
-
-<div class="site-footer">
-<div class="footer-links">
-    <a href="index.html">Home</a>
-    <a href="about.html">About</a>
-    <a href="projects.html">Projects</a>
-    <a href="contact.html">Contact</a>
-</div>
 
 <div class="site-footer">
 <div class="footer-links">
@@ -61,4 +40,6 @@ tools more useful in the real world.
 <div class="footer-copy">
 © Karan Homayounfar — Built with Quarto.
 </div>
+</div>
+
 </div>
