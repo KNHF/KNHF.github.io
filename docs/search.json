@@ -4,62 +4,27 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Projects\n\n\n\nPython File Organizer\n\n\nA small automation tool I built to clean messy folders and make file management easier.\n\n\nRepo: github.com/knhf/file-organizer\n\n\n\n\n\nFinance / Quant Project (Coming Soon)\n\n\nA data-driven modelling project exploring financial signals and predictive analytics.\n\n\n\n\n\nMedical AI Project (Coming Soon)\n\n\nExploring dental or radiology imaging datasets to build classification or segmentation models."
+    "text": "This page collects the projects I’m working on or planning. Some are small but useful tools, others are ideas that I’m still shaping into something concrete. I prefer to be honest about what’s “in progress” rather than pretending everything is finished and polished.\n\n\n\n\nPython File Organizer\n\n\nA small automation tool I built to clean messy folders and make file management easier. It groups files into structured directories so things are easier to find and maintain. The goal is to keep it simple enough that anyone can run it without needing to understand every line of code.\n\n\nTech: Python\n Repo: github.com/knhf/file-organizer\n\n\n\n\n\nFinance / Quant Exploration (In Progress)\n\n\nAn ongoing exploration into financial data, signals, and simple modelling approaches. I’m interested in how far you can get with clean data, sensible features, and transparent models before jumping into overly complex architectures. This project is about learning, testing ideas, and building intuition.\n\n\nTech: Python, Pandas, basic ML\n Status: Early experimentation\n\n\n\n\n\nMedical AI Ideas (Planning)\n\n\nI’m exploring how AI can be applied to medical imaging, especially in areas like dental or radiology data. This is still in the planning stage, but I’m interested in problems where models can assist professionals rather than replace them—things like triage, prioritisation, or simple classification tasks.\n\n\nTech: Python, PyTorch (planned), image processing\n Status: Concept and research"
+  },
+  {
+    "objectID": "contact.html",
+    "href": "contact.html",
+    "title": "Contact",
+    "section": "",
+    "text": "If you’d like to talk about projects, ideas, or potential opportunities, the easiest way to reach me is through GitHub or LinkedIn. I’m open to conversations about data science, automation, and practical AI applications, as well as feedback on the things I’m building.\n\n\nContact details\n\n\n\nGitHub: github.com/knhf\n\n\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893\n\n\n\nIf you prefer email, you can reach me at:\n\n\nEmail: karan.homayounfar@gmail.com\n\n\nI’m always interested in thoughtful projects, collaborations, or just exchanging ideas about how to make data and tools more useful in the real world."
   },
   {
     "objectID": "about.html",
     "href": "about.html",
     "title": "About Me",
     "section": "",
-    "text": "I’m Karan, a Data Science master’s student based in Bristol.\nI enjoy building tools that make life easier — from automation scripts to clean data workflows.\n\n\n\nHigh‑impact AI domains (finance, medical imaging, automation)\nClean code and reproducible project structures\nMaking technical tools accessible to non‑technical users\n\n\n\n\nI enjoy volleyball, exploring Bristol, and optimising my home tech setup.\n\n\n\n\nGitHub: github.com/knhf\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893"
-  },
-  {
-    "objectID": "about.html#interests",
-    "href": "about.html#interests",
-    "title": "About Me",
-    "section": "",
-    "text": "High‑impact AI domains (finance, medical imaging, automation)\nClean code and reproducible project structures\nMaking technical tools accessible to non‑technical users"
-  },
-  {
-    "objectID": "about.html#outside-of-work",
-    "href": "about.html#outside-of-work",
-    "title": "About Me",
-    "section": "",
-    "text": "I enjoy volleyball, exploring Bristol, and optimising my home tech setup."
-  },
-  {
-    "objectID": "about.html#connect-with-me",
-    "href": "about.html#connect-with-me",
-    "title": "About Me",
-    "section": "",
-    "text": "GitHub: github.com/knhf\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893"
+    "text": "I’m Karan, a Data Science master’s student based in Bristol. I like building things that are both practical and understandable—tools that someone else could pick up, read, and actually use without needing to dig through chaos. A lot of my work revolves around structure: clean folders, clear code, and projects that feel intentional rather than thrown together.\n\n\nI’m particularly drawn to areas where data science and AI can have a direct, visible impact. Finance, medical imaging, and automation all appeal to me because they combine real-world stakes with interesting technical challenges. I’m not just chasing complexity for its own sake; I’m more interested in solutions that are robust, explainable, and grounded in reality.\n\n\nHow I like to work\n\n\nI tend to approach projects in a very step-by-step way. I like to:\n\n\n\nStart with a clear question or problem.\n\n\nBreak it down into small, testable pieces.\n\n\nKeep the structure clean—both in code and in folders.\n\n\nDocument what I’m doing so future me (or someone else) can follow it.\n\n\n\nI care a lot about the experience of using a tool, not just building it. That means thinking about prompts, error messages, and how someone who isn’t deeply technical might interact with what I’ve made.\n\n\nOutside of data\n\n\nOutside of studying and building projects, I enjoy volleyball, exploring Bristol, and constantly tweaking my own setups—whether that’s my home tech, my workflows, or how I organise information. I like finding small optimisations that make everyday things smoother.\n\n\nWhere this is going\n\n\nLong term, I want to work in a space where I can combine solid technical work with real-world impact and good communication. I’m interested in roles where I can own projects end-to-end: understanding the problem, designing the solution, building it, and explaining it clearly to others.\n\n\nConnect with me\n\n\n\nGitHub: github.com/knhf\n\n\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893"
   },
   {
     "objectID": "index.html",
     "href": "index.html",
     "title": "Home",
     "section": "",
-    "text": "I’m a Data Science master’s student at UWE Bristol, focused on building real-world, high‑impact AI and analytics projects.\nI enjoy turning messy problems into clean, actionable solutions — whether it’s automation, modelling, or workflow optimisation.\n\n\n\n\nPython\n\n\nMachine Learning\n\n\nData Analysis\n\n\nAutomation\n\n\nSQL & Databases\n\n\nDocumentation\n\n\n\n\n\n\nA Python file organizer tool\n\nA finance/quant modelling project\n\nA medical imaging AI project\n\n\n\n\n\nGitHub: github.com/knhf\n\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893"
-  },
-  {
-    "objectID": "index.html#skills",
-    "href": "index.html#skills",
-    "title": "Home",
-    "section": "",
-    "text": "Python\n\n\nMachine Learning\n\n\nData Analysis\n\n\nAutomation\n\n\nSQL & Databases\n\n\nDocumentation"
-  },
-  {
-    "objectID": "index.html#what-im-working-on",
-    "href": "index.html#what-im-working-on",
-    "title": "Home",
-    "section": "",
-    "text": "A Python file organizer tool\n\nA finance/quant modelling project\n\nA medical imaging AI project"
-  },
-  {
-    "objectID": "index.html#connect-with-me",
-    "href": "index.html#connect-with-me",
-    "title": "Home",
-    "section": "",
-    "text": "GitHub: github.com/knhf\n\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893"
+    "text": "Hi, I’m Karan\n\n\nData Science master’s student in Bristol, building practical, real-world projects in analytics, automation, and AI.\n\n\n\nI’m currently studying Data Science at UWE Bristol and focusing on turning ideas into working, useful tools.\nI like taking messy, unstructured problems and breaking them down into something clean, logical, and repeatable. A lot of what I build starts from a simple question: “Can I make this easier or smarter?”\n\n\nRight now I’m exploring a mix of automation, data analysis, and applied machine learning. I’m especially interested in domains where small, well-designed tools can have a big impact—things like finance, medical imaging, and workflow optimisation. I care about structure, clarity, and making things that other people can actually use.\n\n\nSkills\n\n\n\nPython\n\n\nPandas & Data Analysis\n\n\nMachine Learning (scikit-learn)\n\n\nAutomation Scripts & Tools\n\n\nSQL & Databases\n\n\nDocumentation & Clean Structure\n\n\n\nWhat I’m working on\n\n\n\nPython File Organizer – a small but useful tool to clean and structure messy folders.\n\n\nFinance / Quant exploration – experimenting with signals, features, and simple models.\n\n\nMedical AI ideas – looking into how imaging data can be used in practical ways.\n\n\n\nI’m still early in my journey, but I’m building things step by step and trying to keep everything as clear, reproducible, and honest as possible. This site will grow as I add more projects and refine the ones I already have.\n\n\nConnect with me\n\n\nIf you want to see what I’m working on or just get a sense of how I think about projects, you can find me here:\n\n\n\nGitHub: github.com/knhf\n\n\nLinkedIn: linkedin.com/in/karen-homayounfar-96824893"
   }
 ]

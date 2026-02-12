@@ -1,7 +1,7 @@
 project:
   type: website
   output-dir: docs
-  
+
 website:
   title: "Karan Homayounfar"
   site-url: https://knhf.github.io
@@ -16,6 +16,8 @@ website:
         text: About
       - href: projects.qmd
         text: Projects
+      - href: contact.qmd
+        text: Contact
     right:
       - icon: github
         href: https://github.com/knhf

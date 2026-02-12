@@ -1,24 +1,59 @@
 ---
 title: "Projects"
+page-layout: article
 ---
 
-# Projects
+<div class="page-wrapper">
+
+<p>
+This page collects the projects I'm working on or planning. Some are small but useful tools, others are ideas that
+I’m still shaping into something concrete. I prefer to be honest about what’s “in progress” rather than pretending
+everything is finished and polished.
+</p>
 
 <div class="project-card">
-  <img src="https://picsum.photos/seed/file/600/200" class="project-img">
+  <img src="https://picsum.photos/seed/file/900/260" class="project-img">
   <h2>Python File Organizer</h2>
-  <p>A small automation tool I built to clean messy folders and make file management easier.</p>
-  <p><strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a></p>
+  <p>
+    A small automation tool I built to clean messy folders and make file management easier. It groups files into
+    structured directories so things are easier to find and maintain. The goal is to keep it simple enough that
+    anyone can run it without needing to understand every line of code.
+  </p>
+  <p>
+    <strong>Tech:</strong> Python  
+    <br>
+    <strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a>
+  </p>
 </div>
 
 <div class="project-card">
-  <img src="https://picsum.photos/seed/finance/600/200" class="project-img">
-  <h2>Finance / Quant Project (Coming Soon)</h2>
-  <p>A data-driven modelling project exploring financial signals and predictive analytics.</p>
+  <img src="https://picsum.photos/seed/finance/900/260" class="project-img">
+  <h2>Finance / Quant Exploration (In Progress)</h2>
+  <p>
+    An ongoing exploration into financial data, signals, and simple modelling approaches. I'm interested in how
+    far you can get with clean data, sensible features, and transparent models before jumping into overly complex
+    architectures. This project is about learning, testing ideas, and building intuition.
+  </p>
+  <p>
+    <strong>Tech:</strong> Python, Pandas, basic ML  
+    <br>
+    <strong>Status:</strong> Early experimentation
+  </p>
 </div>
 
 <div class="project-card">
-  <img src="https://picsum.photos/seed/medical/600/200" class="project-img">
-  <h2>Medical AI Project (Coming Soon)</h2>
-  <p>Exploring dental or radiology imaging datasets to build classification or segmentation models.</p>
+  <img src="https://picsum.photos/seed/medical/900/260" class="project-img">
+  <h2>Medical AI Ideas (Planning)</h2>
+  <p>
+    I'm exploring how AI can be applied to medical imaging, especially in areas like dental or radiology data.
+    This is still in the planning stage, but I'm interested in problems where models can assist professionals
+    rather than replace them—things like triage, prioritisation, or simple classification tasks.
+  </p>
+  <p>
+    <strong>Tech:</strong> Python, PyTorch (planned), image processing  
+    <br>
+    <strong>Status:</strong> Concept and research
+  </p>
+</div>
+
 </div>

@@ -3,33 +3,62 @@ title: "Home"
 page-layout: full
 ---
 
-<div class="home-center">
+<div class="page-wrapper">
 
-<img src="https://picsum.photos/900/250" class="banner-img">
+<div class="hero">
+  <img src="https://picsum.photos/1200/320" class="banner-img">
 
-# Hi, I'm Karan
-
-I'm a Data Science master's student at UWE Bristol, focused on building real-world, high‑impact AI and analytics projects.
-
-I enjoy turning messy problems into clean, actionable solutions — whether it's automation, modelling, or workflow optimisation.
-
-## Skills
-<div class="skills-grid">
-  <div class="skill-card">Python</div>
-  <div class="skill-card">Machine Learning</div>
-  <div class="skill-card">Data Analysis</div>
-  <div class="skill-card">Automation</div>
-  <div class="skill-card">SQL & Databases</div>
-  <div class="skill-card">Documentation</div>
+  <h1 class="hero-title">Hi, I'm Karan</h1>
+  <p class="hero-subtitle">
+    Data Science master's student in Bristol, building practical, real-world projects in analytics, automation, and AI.
+  </p>
 </div>
 
-## What I'm working on
-- A Python file organizer tool  
-- A finance/quant modelling project  
-- A medical imaging AI project  
+<p>
+I'm currently studying Data Science at UWE Bristol and focusing on turning ideas into working, useful tools.  
+I like taking messy, unstructured problems and breaking them down into something clean, logical, and repeatable.
+A lot of what I build starts from a simple question: <em>“Can I make this easier or smarter?”</em>
+</p>
 
-## Connect with me
-- **GitHub:** [github.com/knhf](https://github.com/knhf)  
-- **LinkedIn:** [linkedin.com/in/karen-homayounfar-96824893](https://www.linkedin.com/in/karen-homayounfar-96824893/)
+<p>
+Right now I'm exploring a mix of automation, data analysis, and applied machine learning. I'm especially interested in
+domains where small, well-designed tools can have a big impact—things like finance, medical imaging, and workflow
+optimisation. I care about structure, clarity, and making things that other people can actually use.
+</p>
+
+<h2 class="section-title">Skills</h2>
+
+<div class="skills-grid">
+  <div class="skill-card">Python</div>
+  <div class="skill-card">Pandas & Data Analysis</div>
+  <div class="skill-card">Machine Learning (scikit-learn)</div>
+  <div class="skill-card">Automation Scripts & Tools</div>
+  <div class="skill-card">SQL & Databases</div>
+  <div class="skill-card">Documentation & Clean Structure</div>
+</div>
+
+<h2 class="section-title">What I'm working on</h2>
+
+<ul>
+  <li><strong>Python File Organizer</strong> – a small but useful tool to clean and structure messy folders.</li>
+  <li><strong>Finance / Quant exploration</strong> – experimenting with signals, features, and simple models.</li>
+  <li><strong>Medical AI ideas</strong> – looking into how imaging data can be used in practical ways.</li>
+</ul>
+
+<p>
+I'm still early in my journey, but I'm building things step by step and trying to keep everything as clear,
+reproducible, and honest as possible. This site will grow as I add more projects and refine the ones I already have.
+</p>
+
+<h2 class="section-title">Connect with me</h2>
+
+<p>
+If you want to see what I'm working on or just get a sense of how I think about projects, you can find me here:
+</p>
+
+<ul>
+  <li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
+  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
+</ul>
 
 </div>
