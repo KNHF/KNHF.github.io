@@ -6,22 +6,21 @@ page-layout: article
 <div class="page-wrapper">
 
 <p>
-I'm Karan, a Data Science master's student based in Bristol. I like building things that are practical, clear, and
-actually usable—whether that's a small automation script or a full project with structure, documentation, and a
-clean workflow behind it. I care a lot about how a project feels to use, not just how it looks in the code editor.
+I'm Karan, a Data Science master's student based in Bristol. I like building things that are practical, structured, and
+actually useful. Whether it's a small automation script or a full project with documentation and a clean workflow, I
+care about clarity and making sure the end result feels intentional rather than thrown together.
 </p>
 
 <p>
-Most of my work so far has been in Python, R, and SQL, with a focus on data analysis, automation, and turning ideas
-into working tools. I enjoy taking something messy—files, data, or a vague problem—and turning it into something
-organised and predictable. I’m also comfortable working with Git, Docker, and Quarto to keep things reproducible and
-shareable.
+Most of my work revolves around Python, R, SQL, and tools like Git, Docker, and Quarto. I enjoy taking something messy
+— files, data, or a vague idea — and turning it into something organised, predictable, and easy to understand. I’m not
+trying to overcomplicate things; I prefer solutions that are simple, reliable, and easy for someone else to pick up.
 </p>
 
-<h2 class="section-title">How I work</h2>
+<h2 class="section-title">How I approach projects</h2>
 
 <p>
-I like to approach projects step by step:
+I like to work in a step-by-step, structured way:
 </p>
 
 <ul>
@@ -38,19 +37,21 @@ learned, and keep improving it over time.
 
 <h2 class="section-title">Tools I use</h2>
 
-<ul>
-  <li><strong>Python</strong> – data analysis, automation, small tools and scripts.</li>
-  <li><strong>R & RStudio</strong> – statistical work, exploratory analysis, and reporting.</li>
-  <li><strong>SQL & MySQL</strong> – working with structured data and databases.</li>
-  <li><strong>Docker</strong> – making environments reproducible and easier to run.</li>
-  <li><strong>Git & GitHub</strong> – version control and sharing projects.</li>
-  <li><strong>Quarto</strong> – building this portfolio and technical documents.</li>
-</ul>
+<div class="skills-grid">
+  <div class="skill-card">Python</div>
+  <div class="skill-card">R & RStudio</div>
+  <div class="skill-card">SQL & MySQL</div>
+  <div class="skill-card">Docker</div>
+  <div class="skill-card">Git & GitHub</div>
+  <div class="skill-card">Quarto</div>
+  <div class="skill-card">Pandas & Data Analysis</div>
+  <div class="skill-card">Machine Learning</div>
+</div>
 
 <h2 class="section-title">Outside of code</h2>
 
 <p>
-Outside of studying and building projects, I enjoy volleyball, exploring Bristol, and constantly tweaking my own
+Outside of studying and building projects, I enjoy volleyball, exploring Bristol, and constantly refining my own
 setups—whether that’s my home tech, my workflows, or how I organise information. I like finding small improvements
 that make everyday things smoother.
 </p>
@@ -61,5 +62,9 @@ that make everyday things smoother.
   <li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
 </ul>
+
+<div class="site-footer">
+  © Karan Homayounfar — Built with Quarto.
+</div>
 
 </div>

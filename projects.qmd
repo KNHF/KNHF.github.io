@@ -16,8 +16,8 @@ structure, tooling, and how to make ideas actually run.
   <h2>Python File Organizer</h2>
   <p>
     A practical automation tool that cleans and structures messy folders. It moves files into organised directories
-    based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity: simple
-    prompts, clear behaviour, and a layout that someone else can understand.
+    based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and
+    predictable behaviour.
   </p>
   <p>
     <strong>Tech:</strong> Python  
@@ -28,11 +28,10 @@ structure, tooling, and how to make ideas actually run.
 
 <div class="project-card">
   <img src="https://picsum.photos/seed/portfolio/900/260" class="project-img">
-  <h2>This Portfolio Site</h2>
+  <h2>This Portfolio</h2>
   <p>
-    A Quarto-based personal site where I document my work, experiments, and projects. I’m using it as a place to
-    practice clean structure, styling, and communication—treating the site itself as a project, not just a static
-    page. Everything from the layout to the CSS is something I’m iterating on.
+    A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project:
+    structure, styling, and content are all things I iterate on, just like code.
   </p>
   <p>
     <strong>Tech:</strong> Quarto, HTML, CSS, GitHub Pages  
@@ -45,15 +44,18 @@ structure, tooling, and how to make ideas actually run.
   <img src="https://picsum.photos/seed/finance/900/260" class="project-img">
   <h2>Finance / Quant Experiments</h2>
   <p>
-    A set of small experiments with financial data, signals, and simple models. The goal isn’t to build a trading
-    system overnight, but to understand how data behaves, what features matter, and how to test ideas in a structured
-    way without overcomplicating things.
+    A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour,
+    test ideas, and build intuition without overcomplicating things.
   </p>
   <p>
     <strong>Tech:</strong> Python, Pandas, basic ML  
     <br>
     <strong>Status:</strong> Ongoing exploration
   </p>
+</div>
+
+<div class="site-footer">
+  © Karan Homayounfar — Built with Quarto.
 </div>
 
 </div>

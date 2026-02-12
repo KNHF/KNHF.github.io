@@ -31,4 +31,8 @@ I’m always interested in thoughtful projects, collaborations, or just exchangi
 tools more useful in the real world.
 </p>
 
+<div class="site-footer">
+  © Karan Homayounfar — Built with Quarto.
+</div>
+
 </div>
