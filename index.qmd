@@ -6,59 +6,97 @@ page-layout: full
 <div class="page-wrapper">
 
 <div class="hero">
-  <img src="https://picsum.photos/1200/320" class="banner-img">
+  <div class="hero-content">
+    <h1 class="hero-title">Karan Homayounfar</h1>
+    <p class="hero-subtitle">
+      Data Science master's student in Bristol, building practical, real-world projects in analytics, automation, and AI.
+    </p>
 
-  <h1 class="hero-title">Hi, I'm Karan</h1>
-  <p class="hero-subtitle">
-    Data Science master's student in Bristol, building practical, real-world projects in analytics, automation, and AI.
-  </p>
+    <p class="hero-text">
+      I like taking messy, unstructured problems and turning them into something clear, organised, and repeatable.
+      Most of what I build starts from a simple question: <em>“Can I make this easier or smarter?”</em> I care about
+      structure, clean workflows, and tools that someone else can actually use.
+    </p>
+
+    <div class="hero-buttons">
+      <a class="hero-btn" href="projects.html">View Projects</a>
+      <a class="hero-btn secondary" href="about.html">More About Me</a>
+      <a class="hero-btn secondary" href="contact.html">Contact</a>
+    </div>
+  </div>
+
+  <div class="hero-photo">
+    <img src="karan.jpg" alt="Portrait of Karan Homayounfar" class="hero-img">
+  </div>
 </div>
 
-<p>
-I'm currently studying Data Science at UWE Bristol and focusing on turning ideas into working, useful tools.  
-I like taking messy, unstructured problems and breaking them down into something clean, logical, and repeatable.
-A lot of what I build starts from a simple question: <em>“Can I make this easier or smarter?”</em>
-</p>
+<h2 class="section-title">Featured Projects</h2>
 
-<p>
-Right now I'm exploring a mix of automation, data analysis, and applied machine learning. I'm especially interested in
-domains where small, well-designed tools can have a big impact—things like finance, medical imaging, and workflow
-optimisation. I care about structure, clarity, and making things that other people can actually use.
-</p>
+<div class="featured-projects">
 
-<h2 class="section-title">Skills</h2>
+  <div class="featured-card">
+    <h3>Python File Organizer</h3>
+    <p>
+      A practical automation tool that cleans and structures messy folders. It moves files into organised directories
+      based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and
+      predictable behaviour.
+    </p>
+    <p>
+      <strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a>
+    </p>
+  </div>
+
+  <div class="featured-card">
+    <h3>This Portfolio</h3>
+    <p>
+      A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project:
+      structure, styling, and content are all things I iterate on, just like code.
+    </p>
+    <p>
+      <strong>Repo:</strong> <a href="https://github.com/knhf/KNHF.github.io">github.com/knhf/KNHF.github.io</a>
+    </p>
+  </div>
+
+  <div class="featured-card">
+    <h3>Finance / Quant Experiments</h3>
+    <p>
+      A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour,
+      test ideas, and build intuition without overcomplicating things.
+    </p>
+  </div>
+
+</div>
+
+<h2 class="section-title">Tools I use</h2>
 
 <div class="skills-grid">
   <div class="skill-card">Python</div>
   <div class="skill-card">Pandas & Data Analysis</div>
   <div class="skill-card">Machine Learning (scikit-learn)</div>
-  <div class="skill-card">Automation Scripts & Tools</div>
-  <div class="skill-card">SQL & Databases</div>
-  <div class="skill-card">Documentation & Clean Structure</div>
+  <div class="skill-card">R & RStudio</div>
+  <div class="skill-card">SQL & MySQL</div>
+  <div class="skill-card">Docker</div>
+  <div class="skill-card">Git & GitHub</div>
+  <div class="skill-card">Quarto</div>
 </div>
 
-<h2 class="section-title">What I'm working on</h2>
-
-<ul>
-  <li><strong>Python File Organizer</strong> – a small but useful tool to clean and structure messy folders.</li>
-  <li><strong>Finance / Quant exploration</strong> – experimenting with signals, features, and simple models.</li>
-  <li><strong>Medical AI ideas</strong> – looking into how imaging data can be used in practical ways.</li>
-</ul>
+<h2 class="section-title">What I'm doing now</h2>
 
 <p>
-I'm still early in my journey, but I'm building things step by step and trying to keep everything as clear,
-reproducible, and honest as possible. This site will grow as I add more projects and refine the ones I already have.
+Right now I'm focusing on building a small set of solid, well-structured projects rather than chasing dozens of half-finished
+ideas. I’m refining this portfolio, improving my automation tools, and exploring data in areas like finance and practical
+analytics. As I go, I’m trying to keep everything reproducible, documented, and honest about where it is in its lifecycle.
 </p>
 
 <h2 class="section-title">Connect with me</h2>
-
-<p>
-If you want to see what I'm working on or just get a sense of how I think about projects, you can find me here:
-</p>
 
 <ul>
   <li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
   <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
 </ul>
+
+<div class="site-footer">
+  © {{< meta title >}} — Built with Quarto.
+</div>
 
 </div>

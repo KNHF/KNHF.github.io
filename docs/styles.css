@@ -19,7 +19,7 @@ body {
 
 /* Main content wrapper for consistent width and alignment */
 .page-wrapper {
-    max-width: 900px;
+    max-width: 1000px;
     margin: 0 auto;
     padding: 2.5rem 1.25rem 3rem 1.25rem;
 }
@@ -64,9 +64,17 @@ h3:hover {
     transition: color 0.2s ease;
 }
 
-/* Hero section on home page */
+/* Hero layout */
 .hero {
-    margin-bottom: 2rem;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    gap: 2rem;
+    margin-bottom: 2.5rem;
+}
+
+.hero-content {
+    flex: 1 1 60%;
 }
 
 .hero-title {
@@ -80,13 +88,55 @@ h3:hover {
     margin-bottom: 1.2rem;
 }
 
-/* Banner image on home page */
-.banner-img {
-    width: 100%;
-    height: auto;
-    border-radius: 14px;
-    margin-bottom: 1.8rem;
-    display: block;
+.hero-text {
+    margin-bottom: 1.2rem;
+}
+
+/* Hero buttons */
+.hero-buttons {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.75rem;
+    margin-top: 0.5rem;
+}
+
+.hero-btn {
+    padding: 0.55rem 1.1rem;
+    border-radius: 999px;
+    border: 1px solid #0d6efd;
+    background: #0d6efd;
+    color: #fff;
+    font-size: 0.95rem;
+    cursor: pointer;
+    text-decoration: none;
+    transition: background 0.2s ease, color 0.2s ease, transform 0.2s ease;
+}
+
+.hero-btn.secondary {
+    background: transparent;
+    color: #0d6efd;
+}
+
+.hero-btn:hover {
+    background: #ff6f61;
+    border-color: #ff6f61;
+    color: #fff;
+    transform: translateY(-1px);
+}
+
+/* Hero photo */
+.hero-photo {
+    flex: 0 0 auto;
+    display: flex;
+    justify-content: center;
+}
+
+.hero-img {
+    width: 160px;
+    height: 160px;
+    border-radius: 50%;
+    object-fit: cover;
+    border: 3px solid rgba(0, 0, 0, 0.08);
 }
 
 /* Section titles */
@@ -120,7 +170,34 @@ h3:hover {
     box-shadow: 0 4px 12px rgba(0, 0, 0, 0.08);
 }
 
-/* Project cards */
+/* Featured projects */
+.featured-projects {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+    gap: 1.2rem;
+    margin-bottom: 2rem;
+}
+
+.featured-card {
+    padding: 1.1rem;
+    border-radius: 12px;
+    background: rgba(0, 0, 0, 0.02);
+    border: 1px solid rgba(0, 0, 0, 0.06);
+    transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
+}
+
+.featured-card:hover {
+    background: rgba(255, 255, 255, 0.6);
+    transform: translateY(-3px);
+    box-shadow: 0 6px 18px rgba(0, 0, 0, 0.12);
+}
+
+.featured-card h3 {
+    margin-top: 0;
+    margin-bottom: 0.4rem;
+}
+
+/* Project cards (projects page) */
 .project-card {
     padding: 1.4rem;
     border-radius: 14px;
@@ -145,13 +222,7 @@ h3:hover {
     display: block;
 }
 
-/* Lists inside sections */
-ul {
-    padding-left: 1.2rem;
-    margin-bottom: 1rem;
-}
-
-/* Contact section */
+/* Contact list */
 .contact-list {
     list-style: none;
     padding-left: 0;
@@ -161,7 +232,7 @@ ul {
     margin-bottom: 0.5rem;
 }
 
-/* Footer (optional if you add one later) */
+/* Footer */
 .site-footer {
     margin-top: 2.5rem;
     padding-top: 1.5rem;
@@ -171,8 +242,9 @@ ul {
     text-align: center;
 }
 
-/* Dark mode tweaks (Quarto will handle theme; this just softens cards) */
-body.quarto-dark .project-card {
+/* Dark mode tweaks */
+body.quarto-dark .project-card,
+body.quarto-dark .featured-card {
     background: rgba(255, 255, 255, 0.03);
     border-color: rgba(255, 255, 255, 0.08);
 }
@@ -183,11 +255,32 @@ body.quarto-dark .skill-card {
 }
 
 body.quarto-dark .project-card:hover,
+body.quarto-dark .featured-card:hover,
 body.quarto-dark .skill-card:hover {
     background: rgba(255, 255, 255, 0.08);
 }
 
-/* Make images responsive on smaller screens */
+/* Responsive adjustments */
+@media (max-width: 768px) {
+    .hero {
+        flex-direction: column-reverse;
+        align-items: flex-start;
+    }
+
+    .hero-photo {
+        align-self: center;
+    }
+
+    .hero-title {
+        font-size: 2rem;
+    }
+
+    .page-wrapper {
+        padding: 2rem 1rem 2.5rem 1rem;
+    }
+}
+
+/* Make images responsive */
 img {
     max-width: 100%;
     height: auto;
