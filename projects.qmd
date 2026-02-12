@@ -4,18 +4,16 @@ title: "Projects"
 
 # Projects
 
-## Python File Organizer
-A small automation tool I built to clean messy folders and make file management easier.  
-It includes simple prompts, error handling, and a clean structure so anyone can use it.
+<div class="project-card">
 
-**Tech:** Python  
-**Status:** Completed  
-**Repo:** ## Python File Organizer
+## Python File Organizer
 A small automation tool I built to clean messy folders and make file management easier.
 
 **Repo:** [github.com/knhf/file-organizer](https://github.com/knhf/file-organizer)
 
----
+</div>
+
+<div class="project-card">
 
 ## Finance / Quant Project (Coming Soon)
 A data-driven modelling project exploring financial signals and predictive analytics.
@@ -23,10 +21,14 @@ A data-driven modelling project exploring financial signals and predictive analy
 **Tech:** Python, Pandas, Scikit-learn  
 **Status:** In progress
 
----
+</div>
+
+<div class="project-card">
 
 ## Medical AI Project (Coming Soon)
 Exploring dental or radiology imaging datasets to build classification or segmentation models.
 
 **Tech:** Python, PyTorch, OpenCV  
 **Status:** Planning
+
+</div>

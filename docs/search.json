@@ -4,14 +4,14 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "A small automation tool I built to clean messy folders and make file management easier.\nIt includes simple prompts, error handling, and a clean structure so anyone can use it.\nTech: Python\nStatus: Completed\nRepo: ## Python File Organizer A small automation tool I built to clean messy folders and make file management easier.\nRepo: github.com/knhf/file-organizer\n\n\n\n\nA data-driven modelling project exploring financial signals and predictive analytics.\nTech: Python, Pandas, Scikit-learn\nStatus: In progress\n\n\n\n\nExploring dental or radiology imaging datasets to build classification or segmentation models.\nTech: Python, PyTorch, OpenCV\nStatus: Planning"
+    "text": "A small automation tool I built to clean messy folders and make file management easier.\nRepo: github.com/knhf/file-organizer\n\n\n\nA data-driven modelling project exploring financial signals and predictive analytics.\nTech: Python, Pandas, Scikit-learn\nStatus: In progress\n\n\n\nExploring dental or radiology imaging datasets to build classification or segmentation models.\nTech: Python, PyTorch, OpenCV\nStatus: Planning"
   },
   {
     "objectID": "projects.html#python-file-organizer",
     "href": "projects.html#python-file-organizer",
     "title": "Projects",
     "section": "",
-    "text": "A small automation tool I built to clean messy folders and make file management easier.\nIt includes simple prompts, error handling, and a clean structure so anyone can use it.\nTech: Python\nStatus: Completed\nRepo: ## Python File Organizer A small automation tool I built to clean messy folders and make file management easier.\nRepo: github.com/knhf/file-organizer"
+    "text": "A small automation tool I built to clean messy folders and make file management easier.\nRepo: github.com/knhf/file-organizer"
   },
   {
     "objectID": "projects.html#finance-quant-project-coming-soon",
