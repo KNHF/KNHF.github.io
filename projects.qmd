@@ -10,7 +10,10 @@ It includes simple prompts, error handling, and a clean structure so anyone can 
 
 **Tech:** Python  
 **Status:** Completed  
-**Repo:** https://github.com/knhf/file-organizer
+**Repo:** ## Python File Organizer
+A small automation tool I built to clean messy folders and make file management easier.
+
+**Repo:** [github.com/knhf/file-organizer](https://github.com/knhf/file-organizer)
 
 ---
 
