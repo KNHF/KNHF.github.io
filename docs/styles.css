@@ -1,13 +1,72 @@
 /* Modern font */
 body {
     font-family: 'Inter', sans-serif;
+    animation: fadeIn 0.6s ease;
 }
 
-/* Center content on home page */
+/* Fade-in animation */
+@keyframes fadeIn {
+    from {
+        opacity: 0;
+    }
+
+    to {
+        opacity: 1;
+    }
+}
+
+/* Banner image */
+.banner-img {
+    width: 100%;
+    border-radius: 12px;
+    margin-bottom: 20px;
+}
+
+/* Center homepage content */
 .home-center {
     text-align: center;
-    max-width: 700px;
+    max-width: 750px;
     margin: auto;
+}
+
+/* Skills grid */
+.skills-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(120px, 1fr));
+    gap: 12px;
+    margin-bottom: 30px;
+}
+
+.skill-card {
+    padding: 10px;
+    background: rgba(255, 255, 255, 0.08);
+    border-radius: 8px;
+    transition: 0.3s ease;
+}
+
+.skill-card:hover {
+    background: rgba(255, 255, 255, 0.18);
+    transform: translateY(-3px);
+}
+
+/* Project cards */
+.project-card {
+    padding: 20px;
+    border-radius: 12px;
+    background: rgba(255, 255, 255, 0.05);
+    margin-bottom: 30px;
+    transition: 0.3s ease;
+}
+
+.project-card:hover {
+    background: rgba(255, 255, 255, 0.15);
+    transform: translateY(-4px);
+}
+
+.project-img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 15px;
 }
 
 /* Link hover */
@@ -27,33 +86,4 @@ h2:hover,
 h3:hover {
     color: #ff6f61;
     transition: 0.2s ease;
-}
-
-/* Project cards */
-.project-card {
-    padding: 20px;
-    border-radius: 12px;
-    background: rgba(255, 255, 255, 0.05);
-    margin-bottom: 20px;
-    transition: 0.3s ease;
-}
-
-.project-card:hover {
-    background: rgba(255, 255, 255, 0.15);
-    transform: translateY(-4px);
-}
-
-/* Smooth fade-in animation */
-body {
-    animation: fadeIn 0.6s ease;
-}
-
-@keyframes fadeIn {
-    from {
-        opacity: 0;
-    }
-
-    to {
-        opacity: 1;
-    }
 }

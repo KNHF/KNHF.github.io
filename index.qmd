@@ -5,7 +5,7 @@ page-layout: full
 
 <div class="home-center">
 
-<img src="https://picsum.photos/800/200" style="border-radius:12px; margin-bottom:20px;">
+<img src="https://picsum.photos/900/250" class="banner-img">
 
 # Hi, I'm Karan
 
@@ -13,13 +13,23 @@ I'm a Data Science master's student at UWE Bristol, focused on building real-wor
 
 I enjoy turning messy problems into clean, actionable solutions — whether it's automation, modelling, or workflow optimisation.
 
+## Skills
+<div class="skills-grid">
+  <div class="skill-card">Python</div>
+  <div class="skill-card">Machine Learning</div>
+  <div class="skill-card">Data Analysis</div>
+  <div class="skill-card">Automation</div>
+  <div class="skill-card">SQL & Databases</div>
+  <div class="skill-card">Documentation</div>
+</div>
+
 ## What I'm working on
 - A Python file organizer tool  
 - A finance/quant modelling project  
 - A medical imaging AI project  
 
 ## Connect with me
-- **GitHub:** [github.com/knhf](https://github.com/knhf)
+- **GitHub:** [github.com/knhf](https://github.com/knhf)  
 - **LinkedIn:** [linkedin.com/in/karen-homayounfar-96824893](https://www.linkedin.com/in/karen-homayounfar-96824893/)
 
 </div>

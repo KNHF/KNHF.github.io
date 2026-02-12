@@ -5,30 +5,20 @@ title: "Projects"
 # Projects
 
 <div class="project-card">
-
-## Python File Organizer
-A small automation tool I built to clean messy folders and make file management easier.
-
-**Repo:** [github.com/knhf/file-organizer](https://github.com/knhf/file-organizer)
-
+  <img src="https://picsum.photos/seed/file/600/200" class="project-img">
+  <h2>Python File Organizer</h2>
+  <p>A small automation tool I built to clean messy folders and make file management easier.</p>
+  <p><strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a></p>
 </div>
 
 <div class="project-card">
-
-## Finance / Quant Project (Coming Soon)
-A data-driven modelling project exploring financial signals and predictive analytics.
-
-**Tech:** Python, Pandas, Scikit-learn  
-**Status:** In progress
-
+  <img src="https://picsum.photos/seed/finance/600/200" class="project-img">
+  <h2>Finance / Quant Project (Coming Soon)</h2>
+  <p>A data-driven modelling project exploring financial signals and predictive analytics.</p>
 </div>
 
 <div class="project-card">
-
-## Medical AI Project (Coming Soon)
-Exploring dental or radiology imaging datasets to build classification or segmentation models.
-
-**Tech:** Python, PyTorch, OpenCV  
-**Status:** Planning
-
+  <img src="https://picsum.photos/seed/medical/600/200" class="project-img">
+  <h2>Medical AI Project (Coming Soon)</h2>
+  <p>Exploring dental or radiology imaging datasets to build classification or segmentation models.</p>
 </div>
