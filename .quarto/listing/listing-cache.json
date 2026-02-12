@@ -2,9 +2,6 @@
   "listingMap": {
     "index.qmd": [
       "posts"
-    ],
-    "test\\index.ipynb": [
-      "posts"
     ]
   }
 }

@@ -1,0 +1,29 @@
+---
+title: "Projects"
+---
+
+# Projects
+
+## Python File Organizer
+A modular automation tool that organizes files into clean folder structures.  
+Includes user prompts, error handling, and a professional GitHub README.
+
+**Tech:** Python  
+**Status:** Completed  
+**Repo:** https://github.com/knhf/file-organizer
+
+---
+
+## Finance / Quant Project (Coming Soon)
+A data-driven modelling project exploring financial signals and predictive analytics.
+
+**Tech:** Python, Pandas, Scikit-learn  
+**Status:** In progress
+
+---
+
+## Medical AI Project (Coming Soon)
+Exploring dental or radiology imaging datasets to build classification or segmentation models.
+
+**Tech:** Python, PyTorch, OpenCV  
+**Status:** Planning
