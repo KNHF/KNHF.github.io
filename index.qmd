@@ -1,8 +1,7 @@
 ---
-title: "Home"
+title: ""
 page-layout: full
 ---
-
 <div class="page-wrapper">
 
 <div class="hero">
