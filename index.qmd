@@ -6,78 +6,76 @@ page-layout: full
 <div class="page-wrapper">
 
 <div class="hero">
-  <div class="hero-content">
-    <h1 class="hero-title">Karan Homayounfar</h1>
-    <p class="hero-subtitle">
-      Data Science master's student in Bristol, building practical, real-world projects in analytics, automation, and AI.
-    </p>
+<div class="hero-content">
+<h1 class="hero-title">Karan Homayounfar</h1>
+<p class="hero-subtitle">
+I’m a Data Science master’s student at UWE Bristol, focused on building efficient, real‑world solutions in analytics, automation, and applied machine learning.
+</p>
 
-    <p class="hero-text">
-      I like taking messy, unstructured problems and turning them into something clear, organised, and repeatable.
-      Most of what I build starts from a simple question: <em>“Can I make this easier or smarter?”</em> I care about
-      structure, clean workflows, and tools that someone else can actually use.
-    </p>
+<p class="hero-text">
+I like taking messy, unstructured problems and turning them into clean, reliable systems. My work is driven by clarity, reproducibility, and the idea that good tools should make life easier, not more complicated.
+</p>
 
-    <div class="hero-buttons">
-      <a class="hero-btn" href="projects.html">View Projects</a>
-      <a class="hero-btn secondary" href="about.html">More About Me</a>
-      <a class="hero-btn secondary" href="contact.html">Contact</a>
-    </div>
-  </div>
+<div class="hero-buttons">
+<a class="hero-btn" href="projects.html">View Projects</a>
+<a class="hero-btn secondary" href="about.html">More About Me</a>
+<a class="hero-btn secondary" href="contact.html">Contact</a>
+</div>
+</div>
 
-  <div class="hero-photo">
-    <img src="karan.jpg" alt="Portrait of Karan Homayounfar" class="hero-img">
-  </div>
+<div class="hero-photo">
+<img src="karan.jpg" alt="Portrait of Karan Homayounfar" class="hero-img">
+</div>
 </div>
 
 <h2 class="section-title">Featured Projects</h2>
 
 <div class="featured-projects">
 
-  <div class="featured-card">
-    <h3>Python File Organizer</h3>
-    <p>
-      A practical automation tool that cleans and structures messy folders. It moves files into organised directories
-      based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and
-      predictable behaviour.
-    </p>
-    <p>
-      <strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a>
-    </p>
-  </div>
+<div class="featured-card">
+<h3>Python File Organizer</h3>
+<p>
+A practical automation tool that cleans and structures messy folders. It moves files into organised directories
+based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and
+predictable behaviour.
+</p>
+<p>
+<strong>Repo:</strong> <a href="https://github.com/knhf/file-organizer">github.com/knhf/file-organizer</a>
+</p>
+</div>
 
-  <div class="featured-card">
-    <h3>This Portfolio</h3>
-    <p>
-      A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project:
-      structure, styling, and content are all things I iterate on, just like code.
-    </p>
-    <p>
-      <strong>Repo:</strong> <a href="https://github.com/knhf/KNHF.github.io">github.com/knhf/KNHF.github.io</a>
-    </p>
-  </div>
+<div class="featured-card">
+<h3>This Portfolio</h3>
+<p>
+A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project:
+structure, styling, and content are all things I iterate on, just like code.
+</p>
+<p>
+<strong>Repo:</strong> <a href="https://github.com/knhf/KNHF.github.io">github.com/knhf/KNHF.github.io</a>
+</p>
+</div>
 
-  <div class="featured-card">
-    <h3>Finance / Quant Experiments</h3>
-    <p>
-      A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour,
-      test ideas, and build intuition without overcomplicating things.
-    </p>
-  </div>
+<div class="featured-card">
+<h3>Finance / Quant Experiments</h3>
+<p>
+A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour,
+test ideas, and build intuition without overcomplicating things.
+</p>
+</div>
 
 </div>
 
 <h2 class="section-title">Tools I use</h2>
 
 <div class="skills-grid">
-  <div class="skill-card">Python</div>
-  <div class="skill-card">Pandas & Data Analysis</div>
-  <div class="skill-card">Machine Learning (scikit-learn)</div>
-  <div class="skill-card">R & RStudio</div>
-  <div class="skill-card">SQL & MySQL</div>
-  <div class="skill-card">Docker</div>
-  <div class="skill-card">Git & GitHub</div>
-  <div class="skill-card">Quarto</div>
+<div class="skill-card">Python</div>
+<div class="skill-card">Pandas & Data Analysis</div>
+<div class="skill-card">Machine Learning (scikit-learn)</div>
+<div class="skill-card">R & RStudio</div>
+<div class="skill-card">SQL & MySQL</div>
+<div class="skill-card">Docker</div>
+<div class="skill-card">Git & GitHub</div>
+<div class="skill-card">Quarto</div>
 </div>
 
 <h2 class="section-title">What I'm doing now</h2>
@@ -91,12 +89,26 @@ analytics. As I go, I’m trying to keep everything reproducible, documented, an
 <h2 class="section-title">Connect with me</h2>
 
 <ul>
-  <li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
-  <li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
+<li><strong>GitHub:</strong> <a href="https://github.com/knhf">github.com/knhf</a></li>
+<li><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/karen-homayounfar-96824893/">linkedin.com/in/karen-homayounfar-96824893</a></li>
 </ul>
 
 <div class="site-footer">
-  © Karan Homayounfar — Built with Quarto.
+<div class="footer-links">
+<a href="index.html">Home</a>
+<a href="about.html">About</a>
+<a href="projects.html">Projects</a>
+<a href="contact.html">Contact</a>
+</div>
+
+<div class="footer-icons">
+<a href="https://github.com/knhf" aria-label="GitHub"><i class="bi bi-github"></i></a>
+<a href="https://www.linkedin.com/in/karen-homayounfar-96824893/" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+</div>
+
+<div class="footer-copy">
+© Karan Homayounfar — Built with Quarto.
+</div>
 </div>
 
 </div>
