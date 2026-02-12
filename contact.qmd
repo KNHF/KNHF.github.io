@@ -21,7 +21,7 @@ If you prefer email, you can reach me at:
 </p>
 
 <p>
-<strong>Email:</strong> <a href="karan.homayoounfar@gmail.com">karan.homayoounfar@gmail.com</a></li>
+<strong>Email:</strong> <a href="karan.homayounfar@gmail.com">karan.homayounfar@gmail.com</a></li>
 </p>
 
 <div class="site-footer">
