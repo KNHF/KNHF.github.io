@@ -10,7 +10,7 @@ These are some of the projects I’m working on or have built recently. I prefer
 </p>
 
 <div class="project-card">
-<img src="https://picsum.photos/seed/file/900/260" class="project-img">
+<img src="https://source.unsplash.com/1600x900/?gradient,blue" class="project-img">
 <h2>Python File Organizer</h2>
 <p>
 A practical automation tool that cleans and structures messy folders. It moves files into organised directories based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity and predictable behaviour.
@@ -22,7 +22,7 @@ A practical automation tool that cleans and structures messy folders. It moves f
 </div>
 
 <div class="project-card">
-<img src="https://picsum.photos/seed/portfolio/900/260" class="project-img">
+<img src="https://source.unsplash.com/1600x900/?gradient,purple" class="project-img">
 <h2>This Portfolio</h2>
 <p>
 A Quarto-based personal site where I document my work and experiments. I treat the site itself as a project: structure, styling, and content are all things I iterate on, just like code.
@@ -34,7 +34,7 @@ A Quarto-based personal site where I document my work and experiments. I treat t
 </div>
 
 <div class="project-card">
-<img src="https://picsum.photos/seed/finance/900/260" class="project-img">
+<img src="https://source.unsplash.com/1600x900/?gradient,green" class="project-img">
 <h2>Finance / Quant Experiments</h2>
 <p>
 A set of small experiments with financial data, signals, and simple models. The goal is to understand behaviour, test ideas, and build intuition without overcomplicating things.
