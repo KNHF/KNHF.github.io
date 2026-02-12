@@ -51,5 +51,3 @@ Outside of work, I enjoy volleyball, exploring Bristol, and constantly refining 
 © Karan Homayounfar — Built with Quarto.
 </div>
 </div>
-
-</div>

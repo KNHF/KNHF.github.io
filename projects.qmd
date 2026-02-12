@@ -62,5 +62,3 @@ A set of small experiments with financial data, signals, and simple models. The 
 © Karan Homayounfar — Built with Quarto.
 </div>
 </div>
-
-</div>
