@@ -24,7 +24,6 @@ ul.task-list li input[type="checkbox"] {
 
 
 <script src="site_libs/quarto-nav/quarto-nav.js"></script>
-<script src="site_libs/quarto-nav/headroom.min.js"></script>
 <script src="site_libs/clipboard/clipboard.min.js"></script>
 <script src="site_libs/quarto-search/autocomplete.umd.js"></script>
 <script src="site_libs/quarto-search/fuse.min.js"></script>
@@ -46,11 +45,11 @@ ul.task-list li input[type="checkbox"] {
 <link href="site_libs/bootstrap/bootstrap-dark-24772959a0e306aba8d7698078628ce7.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme quarto-color-alternate" id="quarto-bootstrap" data-mode="dark">
 <link href="site_libs/bootstrap/bootstrap-ffa9a6279353761231ec249df0a7fdd3.min.css" rel="stylesheet" append-hash="true" class="quarto-color-scheme-extra" id="quarto-bootstrap" data-mode="light">
 <script id="quarto-search-options" type="application/json">{
-  "location": "navbar",
+  "location": "sidebar",
   "copy-button": false,
   "collapse-after": 3,
-  "panel-placement": "end",
-  "type": "overlay",
+  "panel-placement": "start",
+  "type": "textbox",
   "limit": 50,
   "keyboard-shortcut": [
     "f",
@@ -77,7 +76,7 @@ ul.task-list li input[type="checkbox"] {
 <link rel="stylesheet" href="styles.css">
 </head>
 
-<body class="nav-fixed fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
+<body class="fullcontent quarto-light"><script id="quarto-html-before-body" type="application/javascript">
     const toggleBodyColorMode = (bsSheetEl) => {
       const mode = bsSheetEl.getAttribute("data-mode");
       const bodyEl = window.document.querySelector("body");
@@ -242,58 +241,8 @@ ul.task-list li input[type="checkbox"] {
   </script>
 
 <div id="quarto-search-results"></div>
-  <header id="quarto-header" class="headroom fixed-top">
-    <nav class="navbar navbar-expand-lg " data-bs-theme="dark">
-      <div class="navbar-container container-fluid">
-      <div class="navbar-brand-container mx-auto">
-    <a class="navbar-brand" href="./index.html">
-    <span class="navbar-title">Karan Homayounfar</span>
-    </a>
-  </div>
-            <div id="quarto-search" class="" title="Search"></div>
-          <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarCollapse" aria-controls="navbarCollapse" role="menu" aria-expanded="false" aria-label="Toggle navigation" onclick="if (window.quartoToggleHeadroom) { window.quartoToggleHeadroom(); }">
-  <span class="navbar-toggler-icon"></span>
-</button>
-          <div class="collapse navbar-collapse" id="navbarCollapse">
-            <ul class="navbar-nav navbar-nav-scroll me-auto">
-  <li class="nav-item">
-    <a class="nav-link" href="./index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./about.html"> 
-<span class="menu-text">About</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link active" href="./projects.html" aria-current="page"> 
-<span class="menu-text">Projects</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="./contact.html"> 
-<span class="menu-text">Contact</span></a>
-  </li>  
-</ul>
-            <ul class="navbar-nav navbar-nav-scroll ms-auto">
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://github.com/knhf"> <i class="bi bi-github" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-  <li class="nav-item compact">
-    <a class="nav-link" href="https://www.linkedin.com/in/karen-homayounfar-96824893/"> <i class="bi bi-linkedin" role="img">
-</i> 
-<span class="menu-text"></span></a>
-  </li>  
-</ul>
-          </div> <!-- /navcollapse -->
-            <div class="quarto-navbar-tools">
-  <a href="" class="quarto-color-scheme-toggle quarto-navigation-tool  px-1" onclick="window.quartoToggleColorScheme(); return false;" title="Toggle dark mode"><i class="bi"></i></a>
-</div>
-      </div> <!-- /container-fluid -->
-    </nav>
-</header>
 <!-- content -->
-<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article page-navbar">
+<div id="quarto-content" class="quarto-container page-columns page-rows-contents page-layout-article">
 <!-- sidebar -->
 <!-- margin-sidebar -->
     
@@ -322,7 +271,7 @@ ul.task-list li input[type="checkbox"] {
 
 <div class="page-wrapper">
 <p>
-This page collects the projects I’m working on or planning. Some are small but useful tools, others are ideas that I’m still shaping into something concrete. I prefer to be honest about what’s “in progress” rather than pretending everything is finished and polished.
+These are some of the projects I’m working on or have built recently. I prefer to show real things—even if they’re still evolving—rather than pretend everything is perfectly finished. Each project teaches me something new about structure, tooling, and how to make ideas actually run.
 </p>
 <div class="project-card">
 <img src="https://picsum.photos/seed/file/900/260" class="project-img">
@@ -330,7 +279,7 @@ This page collects the projects I’m working on or planning. Some are small but
 Python File Organizer
 </h2>
 <p>
-A small automation tool I built to clean messy folders and make file management easier. It groups files into structured directories so things are easier to find and maintain. The goal is to keep it simple enough that anyone can run it without needing to understand every line of code.
+A practical automation tool that cleans and structures messy folders. It moves files into organised directories based on type and rules, making it easier to keep a machine tidy over time. The focus is on clarity: simple prompts, clear behaviour, and a layout that someone else can understand.
 </p>
 <p>
 <strong>Tech:</strong> Python<br>
@@ -338,29 +287,29 @@ A small automation tool I built to clean messy folders and make file management 
 </p>
 </div>
 <div class="project-card">
-<img src="https://picsum.photos/seed/finance/900/260" class="project-img">
+<img src="https://picsum.photos/seed/portfolio/900/260" class="project-img">
 <h2 class="anchored">
-Finance / Quant Exploration (In Progress)
+This Portfolio Site
 </h2>
 <p>
-An ongoing exploration into financial data, signals, and simple modelling approaches. I’m interested in how far you can get with clean data, sensible features, and transparent models before jumping into overly complex architectures. This project is about learning, testing ideas, and building intuition.
+A Quarto-based personal site where I document my work, experiments, and projects. I’m using it as a place to practice clean structure, styling, and communication—treating the site itself as a project, not just a static page. Everything from the layout to the CSS is something I’m iterating on.
 </p>
 <p>
-<strong>Tech:</strong> Python, Pandas, basic ML<br>
-<br> <strong>Status:</strong> Early experimentation
+<strong>Tech:</strong> Quarto, HTML, CSS, GitHub Pages<br>
+<br> <strong>Repo:</strong> <a href="https://github.com/knhf/KNHF.github.io">github.com/knhf/KNHF.github.io</a>
 </p>
 </div>
 <div class="project-card">
-<img src="https://picsum.photos/seed/medical/900/260" class="project-img">
+<img src="https://picsum.photos/seed/finance/900/260" class="project-img">
 <h2 class="anchored">
-Medical AI Ideas (Planning)
+Finance / Quant Experiments
 </h2>
 <p>
-I’m exploring how AI can be applied to medical imaging, especially in areas like dental or radiology data. This is still in the planning stage, but I’m interested in problems where models can assist professionals rather than replace them—things like triage, prioritisation, or simple classification tasks.
+A set of small experiments with financial data, signals, and simple models. The goal isn’t to build a trading system overnight, but to understand how data behaves, what features matter, and how to test ideas in a structured way without overcomplicating things.
 </p>
 <p>
-<strong>Tech:</strong> Python, PyTorch (planned), image processing<br>
-<br> <strong>Status:</strong> Concept and research
+<strong>Tech:</strong> Python, Pandas, basic ML<br>
+<br> <strong>Status:</strong> Ongoing exploration
 </p>
 </div>
 </div>
