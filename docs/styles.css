@@ -264,7 +264,7 @@ body.quarto-dark .skill-card:hover {
 @media (max-width: 768px) {
     .hero {
         flex-direction: column-reverse;
-        align-items: flex-start;
+        align-items: center;
     }
 
     .hero-photo {
