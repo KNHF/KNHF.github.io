@@ -58,7 +58,7 @@ A Quarto-based personal site where I document my work and experiments. I treat t
 
 <div class="footer-icons">
 <a href="https://github.com/knhf" aria-label="GitHub"><i class="bi bi-github"></i></a>
-<a href="https://www.linkedin.com/in/karen-homayounfar-96824893/" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
+<a href="https://www.linkedin.com/in/karan-homayounfar/" aria-label="LinkedIn"><i class="bi bi-linkedin"></i></a>
 </div>
 
 <div class="footer-copy">
