@@ -24,14 +24,14 @@ Outside of work, I enjoy volleyball, exploring Bristol, and constantly refining 
 <h2 class="section-title">Tools I use</h2>
 
 <div class="skills-grid">
-<div class="skill-card">Python</div>
-<div class="skill-card">R & RStudio</div>
-<div class="skill-card">SQL & MySQL</div>
-<div class="skill-card">Docker</div>
-<div class="skill-card">Git & GitHub</div>
-<div class="skill-card">Quarto</div>
-<div class="skill-card">Pandas</div>
+<div class="skill-card">Python Development</div>
+<div class="skill-card">Data Analysis (Pandas)</div>
 <div class="skill-card">Machine Learning</div>
+<div class="skill-card">SQL & MySQL</div>
+<div class="skill-card">R & RStudio</div>
+<div class="skill-card">Docker & Environments</div>
+<div class="skill-card">Git & GitHub</div>
+<div class="skill-card">Quarto & Technical Writing</div>
 </div>
 
 <div class="site-footer">
@@ -50,4 +50,6 @@ Outside of work, I enjoy volleyball, exploring Bristol, and constantly refining 
 <div class="footer-copy">
 © Karan Homayounfar — Built with Quarto.
 </div>
+</div>
+
 </div>
