@@ -12,13 +12,13 @@ These are some of the projects I’m working on or have built recently. I prefer
 <!-- Sales Data Quality System -->
 <div class="project-card">
 <img src="https://images.unsplash.com/photo-1551288049-bebda4e38f71" class="project-img">
-<h2>Sales Data Quality & Reporting System</h2>
+<h2>Retail Sales KPI Analysis</h2>
 <p>
 A BI-style pipeline that ingests, cleans, validates, and analyses retail transaction data using Python and MySQL. Includes automated quality checks, KPI reporting, and visual outputs.
 </p>
 <p>
 <strong>Tech:</strong> Python, Pandas, MySQL<br>
-<strong>Repo:</strong> <a href="https://github.com/KNHF/sales-data-quality-system">github.com/KNHF/sales-data-quality-system</a>
+<strong>Repo:</strong> <a href="https://github.com/KNHF/retail-sales-kpi-analysis">github.com/KNHF/retail-sales-kpi-analysis</a>
 </p>
 </div>
 

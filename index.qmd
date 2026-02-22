@@ -53,12 +53,12 @@ A Quarto‑based personal site where I document my work, experiments, and ongoin
 </div>
 
 <div class="featured-card">
-<h3>Sales Data Quality & Reporting System</h3>
+<h3>Retail Sales KPI Analysis</h3>
 <p>
 A small BI-style pipeline that ingests, cleans, validates, and analyses retail transaction data using Python and MySQL. Includes automated quality checks, KPI reporting, and visual outputs.
 </p>
 <p>
-<strong>Repo:</strong> <a href="https://github.com/KNHF/sales-data-quality-system">github.com/KNHF/sales-data-quality-system</a>
+<strong>Repo:</strong> <a href="https://github.com/KNHF/retail-sales-kpi-analysis">github.com/KNHF/retail-sales-kpi-analysis</a>
 </p>
 </div>
 
